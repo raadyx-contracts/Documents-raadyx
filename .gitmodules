@@ -1,6 +1,6 @@
 [submodule "board"]
 	path = board
 	url = git@bitbucket.org:raadyx/documents-raadyx-board.git
-[submodule "interns"]
-	path = interns
-	url = git@bitbucket.org:raadyx/documents-raadyx-interns.git
+[submodule "operations"]
+	path = operations
+	url = git@github.com:raadyx-contracts/Documents-raadyx-operations.git
